@@ -13,7 +13,12 @@ PySpark Version 3.2.1
 - Of the five-star reviews, 8,212 are non-Vine and 34 are Vine.
 - 57.7% of non-Vine reviews are five-star, and 56.7% of Vine reviews are five-star.
 
+
+Unpaid Stats:
+
 ![Unpaid Stats](/images/unpaid_stats.jpg)
+
+Paid Stats: 
 
 ![Paid Stats](/images/paid_stats.jpg)
 
