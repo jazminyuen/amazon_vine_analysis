@@ -3,11 +3,11 @@ Analyze Amazon product reviews of musical instruments written by members of the 
 
 ## Resources:
 - Amazon Web Services (AWS), Relational Database Service (RDS)
-- PostgreSQL 11, pgAdmin 4 Version 6.4
+- PostgreSQL 11, pgAdmin 4 Version 6.4,
 PySpark Version 3.2.1
 - Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Musical_Instruments_v1_00.tsv.gz
 
-## Results: 
+# Results: 
 
 - In this dataset, there are 14,477 non-Vine reviews and 60 Vine reviews.
 - Of the five-star reviews, 8,212 are non-Vine and 34 are Vine.
@@ -24,7 +24,7 @@ Paid Stats:
 
 
 
-## Summary: 
+# Summary: 
 
 - In this analysis, we are comparing the percentage of five star reviews written by members of the Vine program who are paid for their reviews to the percentage of five star reviews written by those who are not paid for their opinion.
 
